@@ -56,7 +56,7 @@
         return $time;
     }
 
-    echo Time_stamp(date("2021-04-15")); //calling the function here...
+    echo Time_stamp(date("2021-04-15 00:00:00")); //calling the function here...
 
 ?>
     
